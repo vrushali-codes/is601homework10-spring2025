@@ -1,5 +1,11 @@
 # Homework 10
 
+## Pytest Coverage
+![coverage](https://github.com/vrushali-codes/is601homework10-spring2025/blob/main/Homework10_Coverage.png)
+
+## Docker Hub
+![dockerhub](https://github.com/vrushali-codes/is601homework10-spring2025/blob/main/Homework10_Dockerhub.png)
+
 [Dockerhub_Link](https://hub.docker.com/repository/docker/vc485/event_manager/general)
 
 ## closed issues:
